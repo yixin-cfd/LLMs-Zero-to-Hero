@@ -3,7 +3,7 @@
 
 ## 目录
 - 大模型基础，介绍大模型训练的流程
-    - Dense Model
+    - Dense Model （完成从零手写：代码在 /src/video/build_gpt.ipynb 中）
     - MOE Model
     - ...
 - 完全从零到一训练 LLM (Pre-Training)
