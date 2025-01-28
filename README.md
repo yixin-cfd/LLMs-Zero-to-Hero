@@ -35,7 +35,7 @@
 |---|---|------|------|
 | 完全从零手写一个nanoGPT | todo | [![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_gpt.ipynb) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1qWwke5E3K)](https://www.bilibili.com/video/BV1qWwke5E3K/)<br />[![Youtube](https://img.shields.io/youtube/views/2g5-aHYWiio)](https://www.youtube.com/watch?v=2g5-aHYWiio) |
 | 激活函数优化| [LLM activate function激活函数的进化之路，从 ReLU，GELU 到 swishGLU](https://bruceyuan.com/llms-zero-to-hero/activate-function-from-relu-gelu-to-swishglu.html) | todo | todo | 
-| LLM MOE 的进化之路 | [LLM MOE的进化之路，从普通简化 MOE，到 spare_moe，再到 deepseek 使用的 share_xpert_spare_moe](https://bruceyuan.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html) | [![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_moe_model.ipynb) | todo | 
+| LLM MOE 的进化之路 | [LLM MOE的进化之路，从普通简化 MOE，到 sparse_moe，再到 deepseek 使用的 share_expert_sparse_moe](https://bruceyuan.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html) | [![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_moe_model.ipynb) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1ZbFpeHEYr)](https://www.bilibili.com/video/BV1ZbFpeHEYr/)<br /> | 
 
 
 ## 代码仓库结构
