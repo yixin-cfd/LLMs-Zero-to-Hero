@@ -58,8 +58,9 @@
 
 陆续会更新，欢迎关注！！！
 - 方式 1：可以加我 wx: bbruceyuan ([扫码链接](https://bruceyuan.com/llms-zero-to-hero/wechat-account-bbruceyuan.png)) 来群里催更或者**反馈问题**～ 
-- 方式 2：关注我的博客：[chaofa用代码打点酱油](https://www.bbruceyuan.com/)
+- 方式 2：关注我的博客：[chaofa用代码打点酱油](https://www.bbruceyuan.com/)  **(推荐)**
 - 方式 3： 关注我的公众号: [chafa用代码打点酱油](https://bruceyuan.com/llms-zero-to-hero/chaofa-wechat-official-account.png)
+> 公众号是 blog 的备份，也是一种提醒方式，也可以➕我好友，但是更好的阅读体验需要是 blog。
 
 <div style="display: flex; 
             justify-content: center; 
