@@ -57,7 +57,7 @@
 
 
 陆续会更新，欢迎关注！！！
-- 方式 1：可以加我 wx: bbruceyuan 来群里催更或者**反馈问题**～ 
+- 方式 1：可以加我 wx: bbruceyuan ([扫码链接](https://bruceyuan.com/llms-zero-to-hero/wechat-account-bbruceyuan.png)) 来群里催更或者**反馈问题**～ 
 - 方式 2：关注我的博客：[chaofa用代码打点酱油](https://www.bbruceyuan.com/)
 - 方式 3： 关注我的公众号: [chafa用代码打点酱油](https://bruceyuan.com/llms-zero-to-hero/chaofa-wechat-official-account.png)
 
@@ -71,11 +71,11 @@
        style="max-width: 80%; 
               min-width: 300px;
               height: auto;"/>
-  <img src="https://bruceyuan.com/llms-zero-to-hero/wechat-account-bbruceyuan.png" 
+  <!-- <img src="https://bruceyuan.com/llms-zero-to-hero/wechat-account-bbruceyuan.png" 
        alt="chaofa-微信号-bbruceyuan" 
        style="max-width: 20%;
               min-width: 150px;
-              height: auto;"/>
+              height: auto;"/> -->
 </div>
 
 
