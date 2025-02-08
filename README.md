@@ -35,7 +35,7 @@
 |---|---|------|------|
 | 完全从零手写一个nanoGPT | todo | [![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_gpt.ipynb) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1qWwke5E3K)](https://www.bilibili.com/video/BV1qWwke5E3K/)<br />[![Youtube](https://img.shields.io/youtube/views/2g5-aHYWiio)](https://www.youtube.com/watch?v=2g5-aHYWiio) |
 | LLM MOE 的进化之路 | [LLM MOE的进化之路，从普通简化 MOE，到 sparse_moe，再到 deepseek 使用的 share_expert_sparse_moe](https://bruceyuan.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html) | [![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_moe_model.ipynb) | [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV1ZbFpeHEYr)](https://www.bilibili.com/video/BV1ZbFpeHEYr/)<br /> [![Youtube](https://img.shields.io/youtube/views/0BodppoiloM)](https://www.youtube.com/watch?v=0BodppoiloM) | 
-| DeepSeek-MLA 算法 | [从代码角度学习和彻底理解 DeepSeek MLA 算法](https://bruceyuan.com/post/hands-on-deepseek-mla.html) |[![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/deepseek-mla-part1.ipynb)| 已更新，见B站 |
+| DeepSeek-MLA 算法 | [从代码角度学习和彻底理解 DeepSeek MLA 算法](https://bruceyuan.com/post/hands-on-deepseek-mla.html) |[![中文可运行 Notebook](https://img.shields.io/badge/notebook-代码-pink)](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/deepseek-mla-part1.ipynb)| [![bilibili](https://img.shields.io/badge/dynamic/json?label=views&style=social&logo=bilibili&query=data.stat.view&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Fweb-interface%2Fview%3Fbvid%3DBV19aP1epEUc)](https://www.bilibili.com/video/BV19aP1epEUc/)<br /> |
 | 激活函数优化| [LLM activate function激活函数的进化之路，从 ReLU，GELU 到 swishGLU](https://bruceyuan.com/llms-zero-to-hero/activate-function-from-relu-gelu-to-swishglu.html) | todo | todo | 
 
 
@@ -58,7 +58,7 @@
 
 
 陆续会更新，欢迎关注！！！
-- 方式 1：可以加我 wx: bbruceyuan ([扫码链接](https://bruceyuan.com/llms-zero-to-hero/wechat-account-bbruceyuan.png)) 来群里催更或者**反馈问题**～ 
+- 方式 1：可以加我 wx: bbruceyuan ([扫码链接(如果搜索账号添加不了)](https://bruceyuan.com/llms-zero-to-hero/wechat-account-bbruceyuan.png)) 来群里催更或者**反馈问题**～ 
 - 方式 2：关注我的博客：[chaofa用代码打点酱油](https://www.bbruceyuan.com/)  **(推荐)**
 - 方式 3： 关注我的公众号: [chafa用代码打点酱油](https://bruceyuan.com/llms-zero-to-hero/chaofa-wechat-official-account.png)
 > 公众号是 blog 的备份，也是一种提醒方式，也可以➕我好友，但是更好的阅读体验需要是 blog。
@@ -82,3 +82,7 @@
 
 
 > 最后欢迎大家使用 [AIStackDC](https://aistackdc.com/phone-register?invite_code=D872A9) 算力平台，主打一个便宜方便（有专门的客服支持），如果你需要的话可以使用我的邀请链接: [https://aistackdc.com/phone-register?invite_code=D872A9](https://aistackdc.com/phone-register?invite_code=D872A9)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bbruceyuan/LLMs-Zero-to-Hero&type=Date)](https://star-history.com/#bbruceyuan/LLMs-Zero-to-Hero&Date)
